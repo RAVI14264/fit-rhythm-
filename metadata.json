@@ -1,0 +1,6 @@
+{
+  "name": "Fit Rhythm Fitness Studio",
+  "description": "Modern, premium fitness studio in Vadodara offering specialized training programs, personal coaching, and state-of-the-art equipment.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
